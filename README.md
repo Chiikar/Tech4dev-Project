@@ -1,7 +1,7 @@
 ##### ![image](https://github.com/Chiikar/Tech4dev-Project/assets/156119801/22a9b227-c663-4164-9e46-7405855f96d7)
 
 
-# Analysis of Unemployment in Nigeria
+# Analysis-of-Unemployment-in-Nigeria
 
 ### Project Overview
 The project, "Unemployment in Nigeria - A Comprehensive Situation Analysis," is driven by the urgent need to address the critical issue of unemployment in Nigeria. By deeply investigating the root causes and complexities of youth unemployment, the project aims to establish a foundation for well-informed strategies. These strategies can contribute to poverty reduction, promote decent work and economic growth, and facilitate a fairer distribution of opportunities for the youth in the country. Leveraging data for informed decision-making will offer valuable insights for policymakers, organizations, and stakeholders, guiding the development and implementation of targeted interventions to alleviate youth unemployment and promote economic inclusivity.
